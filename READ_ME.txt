@@ -10,4 +10,4 @@ Required Dependencies:
 To run:
 	Open the terminal or CMD 
 	Navigate to the directory where the game files are stored
-	Type 'python main'
+	Type 'python main.py'
